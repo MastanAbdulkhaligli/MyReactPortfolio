@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MyReactPortfolio/static/css/main.0c22ad4c.css",
+    "main.js": "/MyReactPortfolio/static/js/main.7663048c.js",
+    "static/media/regression.png": "/MyReactPortfolio/static/media/regression.fc34a63d1039963cb98b.png",
+    "static/media/starwars.png": "/MyReactPortfolio/static/media/starwars.a9533864f0b65068166d.png",
+    "static/media/bigo.jpg": "/MyReactPortfolio/static/media/bigo.38fa9247317f4f00a7fa.jpg",
+    "index.html": "/MyReactPortfolio/index.html",
+    "main.0c22ad4c.css.map": "/MyReactPortfolio/static/css/main.0c22ad4c.css.map",
+    "main.7663048c.js.map": "/MyReactPortfolio/static/js/main.7663048c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c22ad4c.css",
+    "static/js/main.7663048c.js"
+  ]
+}
